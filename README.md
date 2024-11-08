@@ -1,7 +1,7 @@
 ### Yeah Peace Peace 
 
 <h2>About me <h2/>
-<p align="left">📚 I'm currently learning React Native<br>:mortar_board: Studying at SENAI-SP <br>:soccer: VAI CORINTHIANS!!!</p>
+<p align="left">📚 Currently doing projects<br>:mortar_board: Studying at SENAI-SP <br>:soccer: VAI CORINTHIANS!!!</p>
 <h2 align="left">Languages and Tools  :wrench::</h2>
 
 <div align="left">
