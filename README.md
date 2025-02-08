@@ -1,6 +1,6 @@
 ### Yeah Peace Peace :v:
 
-<h2>About me 👀<h2/>
+<h2>Sobre mim 👀:<h2/>
 <p align="left">🎓 Técnico em Desenvolvimento de Sistemas pelo SENAI e Técnico em Eletrônica pela Etec de São Paulo, atualmente cursando Ciência de Dados.
 
 💻 Experiência em desenvolvimento web com React.js, Bootstrap e Tailwind, além de back-end com .NET (C#), MVC, APIs REST, SQL Server e MongoDB.
