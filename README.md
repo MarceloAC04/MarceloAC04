@@ -1,6 +1,6 @@
-### Yeah Peace Peace 
+### Yeah Peace Peace :v:
 
-<h2>About me <h2/>
+<h2>About me 👀<h2/>
 <p align="left">🎓 Técnico em Desenvolvimento de Sistemas pelo SENAI e Técnico em Eletrônica pela Etec de São Paulo, atualmente cursando Ciência de Dados.
 
 💻 Experiência em desenvolvimento web com React.js, Bootstrap e Tailwind, além de back-end com .NET (C#), MVC, APIs REST, SQL Server e MongoDB.
@@ -10,7 +10,7 @@
 
 🚀 Apaixonado por tecnologia e inovação, sempre em busca de novos desafios para aplicar e expandir minhas habilidades.</p>
 
-<h2 align="left">Meus Status:</h2>
+<h2 align="left">Meus Status  :chart_with_upwards_trend::</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marceloAC04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
