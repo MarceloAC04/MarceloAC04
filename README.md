@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/in/marcelo-ara%C3%BAjo-cardoso-dev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="marcelocardoso020304@gmail.com" target="_blank">
+  <a href="mailto:marcelocardoso020304@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="gmail logo"  />
   </a>
 </div>
