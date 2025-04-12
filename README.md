@@ -1,4 +1,5 @@
-### Yeah Peace Peace :v: <img src="https://images.steamusercontent.com/ugc/498014805790518151/B36C05A6A427AB9584E4E0410E3267CC336E8547/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" align="right" heigth="150px" width="130px">
+### Yeah Peace Peace :v: 
+<img src="https://images.steamusercontent.com/ugc/498014805790518151/B36C05A6A427AB9584E4E0410E3267CC336E8547/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" align="upper" heigth="180px" width="180px" padding-bottom="15px">
 
 <h2>Sobre mim 👀:<h2/>
 <p align="left">🎓 Técnico em Desenvolvimento de Sistemas pelo SENAI e Técnico em Eletrônica pela Etec de São Paulo, atualmente cursando Ciência de Dados.
