@@ -6,6 +6,7 @@
 💻 Experiência em desenvolvimento web com React.js, Bootstrap e Tailwind, além de back-end com .NET (C#), MVC, APIs REST, SQL Server e MongoDB.
 
 📱 Familiaridade com desenvolvimento mobile usando React Native e Styled-Components.
+
 ⚙️ Conhecimentos em ferramentas como Git, Azure DevOps, Figma e metodologias ágeis (Scrum e Kanban).
 
 🚀 Apaixonado por tecnologia e inovação, sempre em busca de novos desafios para aplicar e expandir minhas habilidades.</p>
