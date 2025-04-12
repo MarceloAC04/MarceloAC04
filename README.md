@@ -1,4 +1,4 @@
-### Yeah Peace Peace :v: <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fl%3Ditalian%26id%3D618407715&psig=AOvVaw24uvQigDpyXwvwbZhcZTKk&ust=1744505432658000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDx96aj0YwDFQAAAAAdAAAAABAh" width="20px">
+### Yeah Peace Peace :v: <img src="https://images.steamusercontent.com/ugc/498014805790518151/B36C05A6A427AB9584E4E0410E3267CC336E8547/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" align="right" heigth="150px" width="130px">
 
 <h2>Sobre mim 👀:<h2/>
 <p align="left">🎓 Técnico em Desenvolvimento de Sistemas pelo SENAI e Técnico em Eletrônica pela Etec de São Paulo, atualmente cursando Ciência de Dados.
